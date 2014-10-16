@@ -1,0 +1,6 @@
+Please enter an integer: 1
+Please enter another integer: 
+2
+Please enter one last integer: 
+3
+The average of those two numbers is: 2.0

@@ -1,0 +1,3 @@
+Please enter an integer: 23
+Please enter another integer: 45
+103292.0is the sum of the numbers you entered cubed

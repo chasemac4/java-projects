@@ -1,0 +1,12 @@
+Enter a number of pennies: 
+89
+The value you entered is: $0.89
+Enter a number of nickels: 
+45
+The value you entered is: $2.25
+Enter a number of dimes: 
+50
+The value you entered is: $5.0
+Enter a number of quarters: 
+23
+The value you entered is: $5.75

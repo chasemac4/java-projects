@@ -1,0 +1,9 @@
+Please enter a x coordinate: 
+2
+Please enter a y coordinate: 
+2
+Please enter a x coordinate: 
+3
+Please enter a y coordinate: 
+3
+The distance between those two points are: 2.0

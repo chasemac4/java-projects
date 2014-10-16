@@ -1,0 +1,8 @@
+Please enter a dollar value: 78.89
+Number of Tens: 7
+Number of FIves: 1
+Number of Ones: 3
+Number of Quarters: 3
+Numer of Dimes: 1
+Number of Nickles: 0
+Number of Pennies: 4
